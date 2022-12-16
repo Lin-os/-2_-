@@ -21,7 +21,9 @@
 ![image](https://user-images.githubusercontent.com/84001817/208068999-c0c621b2-7996-47f0-b057-84ba21f6ecc9.png)
 
 
+결과
 ![image](https://user-images.githubusercontent.com/84001817/208069011-20902254-a4b1-4dc3-94de-e029594e7cc8.png)
+
 
 ▶이미지 xml 파일 만들기
 -유리병
