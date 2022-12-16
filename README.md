@@ -12,7 +12,16 @@
 
 ![image](https://user-images.githubusercontent.com/84001817/208068098-24a616ce-f90c-45b7-975e-c53b7a4baed4.png)
 
-▶직접 수집한 이미지를 이용하여 학습시키고 .tflite 파일 다운
+▶직접 수집한 이미지를 이용하여 학습시키고 .tflite 파일 다운![image](https://user-images.githubusercontent.com/84001817/208068878-af5f4a98-2d72-44b1-bdff-3e3fffddc10c.png)
+![image](https://user-images.githubusercontent.com/84001817/208068895-8412f5ec-8712-4029-873f-148d6bf7b998.png)
+![image](https://user-images.githubusercontent.com/84001817/208068922-1348df2d-66b9-426d-abe9-cb8e1de120e1.png)
+![image](https://user-images.githubusercontent.com/84001817/208068948-b2e6d235-f996-48a1-b4bd-3c8d676f2e40.png)
+![image](https://user-images.githubusercontent.com/84001817/208068964-c978716f-c0d3-4a1e-93f5-3da8fd954267.png)
+![image](https://user-images.githubusercontent.com/84001817/208068978-de4774f1-f03d-4eba-8b19-61b38a8d61bf.png)
+![image](https://user-images.githubusercontent.com/84001817/208068999-c0c621b2-7996-47f0-b057-84ba21f6ecc9.png)
+
+
+![image](https://user-images.githubusercontent.com/84001817/208069011-20902254-a4b1-4dc3-94de-e029594e7cc8.png)
 
 ▶이미지 xml 파일 만들기
 -유리병
