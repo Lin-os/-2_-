@@ -75,13 +75,24 @@ gibhub에서 LabelImg를 다운받아 사용
 ▶컨베이어 벨트 제작
 -레고마인드스톰 EV3로 'LEGO education'사이트에서 제공해주는 컨베이어 벨트 조립 설명서를 보고 제작
 -컨베이어 벨트를 작동시키기 위한 레고마인드스톰 소프트웨어를 다운받아 로봇과 컴퓨터를 선으로 연결하여 코드 직접 실행
+
 ![image](https://user-images.githubusercontent.com/84001817/208067830-2309380e-a859-43cc-9105-59e0a1fc98f6.png)
+
 
 ▶이미지 xml 파일 만들기
 -플라스틱
 gibhub에서 LabelImg를 다운받아 사용
 
 ▶직접 수집한 이미지를 이용하여 학습시키고 .tflite 파일 다운
+
+
+[학습결과]
+
+![image](https://user-images.githubusercontent.com/84001817/208069368-16e1cd33-e673-4293-ba8b-4c30d2c4a5b8.png)
+
+
+![image](https://user-images.githubusercontent.com/84001817/208069395-ce2aa792-a8b1-4e6d-9fed-3ff50fbd66b9.png)
+
 
 [응용사례]
 시각장애인을 인식하는 모델 만들기
