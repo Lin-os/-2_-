@@ -96,7 +96,9 @@ gibhub에서 LabelImg를 다운받아 사용
 
 [응용사례]
 시각장애인을 인식하는 모델 만들기
+
 -지팡이 이미지와 휠체어 이미지를 구분한다
+
 -이미지는 같은 방법으로 xml파일을 만든다
 
 ![image](https://user-images.githubusercontent.com/84001817/208069704-43940134-b828-4d57-82c3-d96fa04e17d6.png)
@@ -104,6 +106,7 @@ gibhub에서 LabelImg를 다운받아 사용
 
 
 [학습결과]
+
 ![image](https://user-images.githubusercontent.com/84001817/208069730-049b1922-7024-4fb6-8a6c-aa1cbbdb641f.png)
 ![image](https://user-images.githubusercontent.com/84001817/208069740-3e7af9a2-dec6-4c6c-b87f-77a279a69799.png)
 
