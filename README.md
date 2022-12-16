@@ -54,6 +54,7 @@ on-Android-and-Raspberry-Pi.git
 ▶이미지 xml 파일 만들기
 -캔
 gibhub에서 LabelImg를 다운받아 사용
+![image](https://user-images.githubusercontent.com/84001817/208068700-7b12705d-998b-413b-8b06-4acd6ac84c09.png)
 
 ▶직접 수집한 이미지를 이용하여 학습시키고 .tflite 파일 다운
 
