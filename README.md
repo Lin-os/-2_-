@@ -99,5 +99,14 @@ gibhub에서 LabelImg를 다운받아 사용
 -지팡이 이미지와 휠체어 이미지를 구분한다
 -이미지는 같은 방법으로 xml파일을 만든다
 
+![image](https://user-images.githubusercontent.com/84001817/208069704-43940134-b828-4d57-82c3-d96fa04e17d6.png)
+![image](https://user-images.githubusercontent.com/84001817/208069714-af55e290-9424-4d04-8e7b-4c3b2411e5d8.png)
+
+
+[학습결과]
+![image](https://user-images.githubusercontent.com/84001817/208069730-049b1922-7024-4fb6-8a6c-aa1cbbdb641f.png)
+![image](https://user-images.githubusercontent.com/84001817/208069740-3e7af9a2-dec6-4c6c-b87f-77a279a69799.png)
+
+
 활용방안
 -횡단보도에서 시각장애인용 신호버튼을 눌러주는 게 아닌 카메라로 시각장애인(지팡이, 휠체어)을 인식해 신호를 바꿔준다
