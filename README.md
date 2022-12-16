@@ -37,6 +37,7 @@ on-Android-and-Raspberry-Pi.git
 -python으로 된 webcam을 미리 다운로드 한 모델을 이용하여 작동
  -python TFLite_detection_webcam.py --modeldir=test_model
   (해석: python으로 작성된 웹캠 파일을 "test_model(임시파일명)"을 사용하여 작동시킬 것이다.)
+  ![image](https://user-images.githubusercontent.com/84001817/208068294-f0933d2e-c36a-4882-a88b-0a6d5e93f45b.png)
   
 ▶직접 수집한 이미지를 이용하여 학습시키고 .tflite 파일 다운
 
