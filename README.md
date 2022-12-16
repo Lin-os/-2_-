@@ -10,6 +10,8 @@
 ▶얼굴 인식 Test 코드 학습
 -얼굴인식 Test 코드 – OpenCV : https://stickode.tistory.com/197
 
+![image](https://user-images.githubusercontent.com/84001817/208068098-24a616ce-f90c-45b7-975e-c53b7a4baed4.png)
+
 ▶직접 수집한 이미지를 이용하여 학습시키고 .tflite 파일 다운
 
 ▶이미지 xml 파일 만들기
